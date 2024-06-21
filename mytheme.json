@@ -6,10 +6,8 @@
       "segments": [
         {
           "type": "path",
-          "style": "powerline",
-          "powerline_symbol": "\uE0B0",
-          "foreground": "#FFFFFF",
-          "background": "#4CAF50",
+          "style": "plain",
+          "foreground": "#1E90FF",
           "properties": {
             "folder_icon": "\uE5FF",
             "folder_separator_icon": "\uE5FF",
@@ -23,18 +21,15 @@
         {
           "type": "text",
           "style": "plain",
-          "foreground": "#FFFFFF",
-          "background": "#4CAF50",
+          "foreground": "#1E90FF",
           "properties": {
             "prefix": " "
           }
         },
         {
           "type": "git",
-          "style": "powerline",
-          "powerline_symbol": "\uE0B0",
-          "foreground": "#FFFFFF",
-          "background": "#FFC107",
+          "style": "plain",
+          "foreground": "#1E90FF",
           "properties": {
             "display_status": false,
             "display_stash_count": false,
@@ -45,8 +40,7 @@
         {
           "type": "text",
           "style": "plain",
-          "foreground": "#FFFFFF",
-          "background": "#FFC107",
+          "foreground": "#1E90FF",
           "properties": {
             "prefix": " "
           }
@@ -54,8 +48,7 @@
         {
           "type": "text",
           "style": "plain",
-          "foreground": "#FFFFFF",
-          "background": "#FF5722",
+          "foreground": "#1E90FF",
           "properties": {
             "text": "_"
           }
